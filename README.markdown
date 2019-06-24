@@ -17,7 +17,7 @@
 ## Description
 
 This is simple utilities to handle unix pipe as stream.
-This is use sb-unix, sb-sys api.
+This uses sb-unix, sb-sys api.
 Currently this works only with sbcl.
 
 ## API
